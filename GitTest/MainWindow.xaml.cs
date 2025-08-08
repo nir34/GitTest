@@ -23,7 +23,7 @@ namespace GitTest
         public MainWindow()
         {
             InitializeComponent();
-            int i = 1;
+            int i = 11;
         }
     }
 }
